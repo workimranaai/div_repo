@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30972237102",
+    "project_id": "probonodemoapp",
+    "storage_bucket": "probonodemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30972237102:android:2365342f84eaf885a4d6bf",
+        "android_client_info": {
+          "package_name": "com.cart.cart_craze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvimqTU8QuS3yCjIU0Cgosc_C9tAJjCI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

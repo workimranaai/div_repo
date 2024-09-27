@@ -1,0 +1,16 @@
+const String usersTable = "Users";
+const String email = "email";
+const String userId = "userId";
+const String userName = "userName";
+const String userType = "userType";
+const String address = "address";
+const String phoneNumber = "phoneNumber";
+const String retailer = "retailer";
+const String customer = "customer";
+const String productTable = "retailer";
+const String productId = "productId";
+const String productType = "productType";
+const String productName = "productName";
+const String productPrice = "productPrice";
+const String productDetail = "productDetail";
+const String productImage = "productImage";
